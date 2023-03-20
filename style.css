@@ -1,0 +1,86 @@
+body{
+    color: white;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+
+header{
+    width: 100%;
+    height: 700px;
+}
+
+ul>li{
+    display: inline-block;
+    margin-left: 25px;
+}
+
+ul{
+    height: 40px;
+    background-image: url(image/black-golden-royal-luxury-background-landing-page-free-vector.jpg);
+    background-size: 100%;
+}
+
+#ws{
+    margin-left: 800px;
+}
+
+#sw{
+    margin-left: 25px;
+}
+
+.fdc{
+    background-image: url(image/1131502.jpg);
+    background-size: 100%;
+    height: 600px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+button{
+    border-radius: 20px;
+    width: 100px;
+    height: 30px;
+    background-color: antiquewhite;
+}
+
+main{
+    width: 100%;
+    height: 700px;
+}
+
+.gh>big{
+    color: red;
+    display: flex;
+    justify-content: center;
+}
+
+.lf{
+    width: 400px;
+    height: 600px;
+    color: black;
+}
+
+img{
+    margin-left: 150px;
+}
+
+.tert{
+    color: black;
+    width: 100%;
+    height: 600px;
+}
+
+footer{
+    width: 100%;
+    height: 400px;
+    background-color: rgb(156, 155, 153);
+    margin-top: 300px;
+}
+
+
+
+    
+    
